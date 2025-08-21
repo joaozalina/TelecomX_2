@@ -1,4 +1,4 @@
-# TelecomX - Previsão de Churn
+# TelecomX_2 - Previsão de Churn
 ## Descrição
 Projeto para prever evasão de clientes da empresa Telecom.
 
