@@ -1,18 +1,18 @@
-# TelecomX_2
+# TelecomX - Previsão de Churn
+## Descrição
+Projeto para prever evasão de clientes da empresa Telecom.
 
-<h2>Sobre o projeto</h2>
+## Metodologia
+- Pré-processamento: Encoding.
+- Modelos: KNN, Árvore de Decisão, XGBoost.
+- Avaliação: Acurácia, Precisão, Recall, F1-Score.
 
-<p>A missão desse projeto é desenvolver modelos preditivos capazes de prever quais clientes têm maior chance de cancelar seus serviços.</p>
-<br>
+## Resultados
+- Melhor modelo: XGBoost (F1 ~0.60 após otimizações).
+- Fatores chave: Tempo de fidelidade e serviço de fibra ótica.
 
-<h2>🧠 Objetivos do Desafio:</h2>
-
-  <ul>
-  <li>Preparar os dados para a modelagem (tratamento, encoding, normalização).</li>
-  <li>Realizar análise de correlação e seleção de variáveis.</li>
-  <li>Treinar dois ou mais modelos de classificação.</li>
-  <li>Avaliar o desempenho dos modelos com métricas.</li>
-  <li>Interpretar os resultados, incluindo a importância das variáveis.</li>
-  <li>Criar uma conclusão estratégica apontando os principais fatores que influenciam a evasão.</li>
-  </ul>
+## Como Executar
+1. Clone: `git clone https://github.com/joaozalina/TelecomX_2`
+2. Instale: `pip install -r requirements.txt`
+3. Execute: `jupyter notebook TelecomX_Parte2.ipynb`
     
