@@ -8,7 +8,7 @@ Projeto para prever evasão de clientes da empresa Telecom.
 - Avaliação: Acurácia, Precisão, Recall, F1-Score.
 
 ## Resultados
-- Melhor modelo: XGBoost (Acurácia de: ~79.4% após otimizações).
+- Melhor modelo: XGBoost (Acurácia de: ~80% após otimizações).
 - Fatores chave: Tempo de fidelidade e serviço de fibra ótica.
 
 ## Como Executar
